@@ -3,7 +3,7 @@ DevReport
 
 Jonathan Charles
 
-👋 Merhaba! Ben Jonathan Charles**. 1977'den beri teknolojiye olan ilgimi sürdürüyorum ve yazılım geliştirme alanında deneyimlerimi paylaşmaktan keyif alıyorum. Amacım, **yazılım geliştirme**, **web uygulamaları** ve **açık kaynak projeler** üzerine odaklanarak sürekli öğrenmek ve katkıda bulunmaktır.
+👋 Merhaba! Ben Jonathan Charles**. 1997'den beri teknolojiye olan ilgimi sürdürüyorum ve yazılım geliştirme alanında deneyimlerimi paylaşmaktan keyif alıyorum. Amacım, **yazılım geliştirme**, **web uygulamaları** ve **açık kaynak projeler** üzerine odaklanarak sürekli öğrenmek ve katkıda bulunmaktır.
 
 🚀 Hakkımda
 - 🌱 Şu anda **React** ve **Node.js** üzerinde derinlemesine çalışıyorum.

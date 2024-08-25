@@ -18,3 +18,5 @@ Jonathan Charles
 📫 İletişim
 - GitHub: [@jonathancharles1977](https://github.com/jonathancharles1977)
 - E-mail: jcbrn1977@gmail.com
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](profilinizin linki)
+
